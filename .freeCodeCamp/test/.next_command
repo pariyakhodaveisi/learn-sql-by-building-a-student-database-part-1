@@ -173,3 +173,5 @@ ls --color=auto
 ls --color=auto
 ls --color=auto
 ls --color=auto
+--help pg_dump
+pg_dump --help
