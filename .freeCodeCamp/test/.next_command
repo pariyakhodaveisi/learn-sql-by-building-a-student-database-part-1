@@ -156,3 +156,4 @@ psql --username=freecodecamp --dbname=postgres
 ECHO HELLO SQL
 echo hello sql
 psql --username=freecodecamp --dbname=postgres
+./insert_data.sh
