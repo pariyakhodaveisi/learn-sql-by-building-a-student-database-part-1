@@ -87,3 +87,4 @@ cat courses.csv
 ./insert_data.sh
 declaire -p IFS
 declare -p IFS
+./insert_data.sh
